@@ -6067,17 +6067,6 @@
 			]
 		},
 		{
-			"name": "SyncSettingsReborn",
-			"details": "https://github.com/ZhangMing520/SyncSettingsReborn",
-			"labels": ["settings", "utilities"],
-			"releases": [
-				{
-					"sublime_text": "*",
-					"tags": true
-				}
-			]
-		},
-		{
 			"name": "Syncrow",
 			"description": "Create and Sync Snippets.",
 			"details": "https://github.com/Afzal7/syncrow",
@@ -6086,6 +6075,18 @@
 			"releases": [
 				{
 					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "SyncSettingsReborn",
+			"details": "https://github.com/ZhangMing520/SyncSettingsReborn",
+			"labels": ["settings", "utilities"],
+			"releases": [
+				{
+					"sublime_text": ">=4050",
+					"python_versions": ["3.8"],
 					"tags": true
 				}
 			]
