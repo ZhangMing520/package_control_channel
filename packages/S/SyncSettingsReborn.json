@@ -1,0 +1,10 @@
+{
+    "name": "SyncSettingsReborn",
+    "details": "https://github.com/ZhangMing520/SyncSettingsReborn",
+    "releases": [
+        {
+            "sublime_text": "*",
+            "tags": true
+        }
+    ]
+}
