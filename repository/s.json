@@ -6086,7 +6086,7 @@
 			"releases": [
 				{
 					"sublime_text": ">=4050",
-					"python_versions": ["3.8"],
+
 					"tags": true
 				}
 			]
