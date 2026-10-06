@@ -824,11 +824,11 @@
 		},
 		{
 			"name": "Search in Project",
-			"details": "https://github.com/leonid-shevtsov/SearchInProject_SublimeText",
+			"details": "https://github.com/deese/SearchInProject_SublimeText",
 			"labels": ["search"],
 			"releases": [
 				{
-					"sublime_text": "*",
+					"sublime_text": ">=4200",
 					"tags": true
 				}
 			]
