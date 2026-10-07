@@ -674,6 +674,16 @@
 			]
 		},
 		{
+			"details": "https://github.com/aaortizb/niceDarkTheme",
+			"labels": ["theme", "color scheme", "file icon theme"],
+			"releases": [
+				{
+					"sublime_text": ">=4206",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Night Owl",
 			"details": "https://github.com/VonHeikemen/night-owl-sublime-scheme",
 			"labels": ["color scheme"],
